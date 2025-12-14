@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+pre[class*="language-"],
+code[class*="language-"] {
+  background: transparent !important;
+}
+
